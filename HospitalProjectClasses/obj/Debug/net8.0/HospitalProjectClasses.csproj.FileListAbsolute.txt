@@ -1,0 +1,11 @@
+C:\Users\HomePC\source\repos\HospitalProjectClasses\bin\Debug\net8.0\HospitalProjectClasses.deps.json
+C:\Users\HomePC\source\repos\HospitalProjectClasses\bin\Debug\net8.0\HospitalProjectClasses.dll
+C:\Users\HomePC\source\repos\HospitalProjectClasses\bin\Debug\net8.0\HospitalProjectClasses.pdb
+C:\Users\HomePC\source\repos\HospitalProjectClasses\obj\Debug\net8.0\HospitalProjectClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\source\repos\HospitalProjectClasses\obj\Debug\net8.0\HospitalProjectClasses.AssemblyInfoInputs.cache
+C:\Users\HomePC\source\repos\HospitalProjectClasses\obj\Debug\net8.0\HospitalProjectClasses.AssemblyInfo.cs
+C:\Users\HomePC\source\repos\HospitalProjectClasses\obj\Debug\net8.0\HospitalProjectClasses.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\source\repos\HospitalProjectClasses\obj\Debug\net8.0\HospitalProjectClasses.dll
+C:\Users\HomePC\source\repos\HospitalProjectClasses\obj\Debug\net8.0\refint\HospitalProjectClasses.dll
+C:\Users\HomePC\source\repos\HospitalProjectClasses\obj\Debug\net8.0\HospitalProjectClasses.pdb
+C:\Users\HomePC\source\repos\HospitalProjectClasses\obj\Debug\net8.0\ref\HospitalProjectClasses.dll
